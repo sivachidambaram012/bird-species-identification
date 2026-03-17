@@ -1,0 +1,37 @@
+time,species,confidence,method
+2026-03-15 20:43:37.924300,Double Brested Cormarant,0.318,image
+2026-03-15 20:43:50.555858,Imperial Shaq,0.424,image
+2026-03-15 20:44:00.862470,Imperial Shaq,0.424,image
+2026-03-15 20:44:07.774056,Rook,0.769,audio
+2026-03-15 20:44:17.003451,Imperial Shaq,0.424,image
+2026-03-15 21:03:15.901032,Bald Eagle,0.426,image
+2026-03-15 21:05:52.806079,Imperial Shaq,0.424,image
+2026-03-15 21:06:35.274201,Crow,0.998,image
+2026-03-15 21:06:58.317195,Crow,0.998,image
+2026-03-15 21:07:25.713882,Red-tailed Hawk,0.089,audio
+2026-03-15 21:07:48.021624,Eurasian Magpie,0.995,image
+2026-03-15 21:07:58.031783,Red-tailed Hawk,0.089,audio
+2026-03-15 21:13:13.645273,Eurasian Magpie,0.995,image
+2026-03-15 21:19:19.889913,Double Brested Cormarant,0.318,image
+2026-03-15 21:30:46.758222,Crow,0.998,image
+2026-03-15 21:31:17.966675,Crow,0.998,image
+2026-03-15 21:31:32.290904,Red-tailed Hawk,0.089,audio
+2026-03-15 21:32:09.007873,Crow,0.998,image
+2026-03-15 21:33:38.785517,Red-tailed Hawk,0.089,audio
+2026-03-15 21:42:40.506114,Eurasian Magpie,0.997,image
+2026-03-15 21:43:35.822635,Eurasian Magpie,0.997,image
+2026-03-15 21:50:11.554868,Red-tailed Hawk,0.089,audio
+2026-03-15 21:51:04.704902,Imperial Shaq,0.559,image
+2026-03-15 21:51:14.395848,Red-tailed Hawk,0.089,audio
+2026-03-15 22:03:42.662008,Crow,0.998,image
+2026-03-15 22:05:11.344946,Red-tailed Hawk,0.089,audio
+2026-03-16 10:23:50.378119,Crow,0.998,image
+2026-03-16 10:24:17.831223,Eurasian Magpie,0.997,image
+2026-03-16 10:24:29.947368,Double Brested Cormarant,0.476,image
+2026-03-16 10:24:54.698765,Imperial Shaq,0.559,image
+2026-03-16 10:25:09.891534,Red-tailed Hawk,0.089,audio
+2026-03-16 10:27:18.053715,Eurasian Magpie,0.997,image
+2026-03-16 10:28:10.644923,Red-tailed Hawk,0.089,audio
+2026-03-17 10:19:28.354871,Crow,0.998,image
+2026-03-17 10:19:47.704960,Eurasian Magpie,0.997,image
+2026-03-17 10:20:24.431154,Red-tailed Hawk,0.089,audio

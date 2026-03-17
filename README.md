@@ -1,0 +1,11 @@
+streamlit
+torch
+transformers
+pillow
+birdnetlib
+wikipedia-api
+static-ffmpeg
+librosa
+matplotlib
+pandas
+pydeck
