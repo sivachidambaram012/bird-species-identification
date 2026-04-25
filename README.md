@@ -1,31 +1,48 @@
 # 🦅 Bird Species Identification System
 
 ## 📌 Overview
-This project is an AI-powered system for identifying bird species using:
+The **Bird Species Identification System** is an AI-powered application that detects and identifies bird species using both **visual (image/video)** and **audio signals**.  
 
-- Computer Vision (Image Detection)
-- Acoustic Analysis (BirdNET)
-- Real-time Camera Detection
-- Global Bird Observation Mapping
+This project combines **computer vision**, **deep learning**, and **bioacoustic analysis** to deliver a comprehensive bird monitoring solution.
 
-## 🚀 Features
-- 📷 Image-based bird detection
-- 🎵 Audio-based bird recognition
-- 📹 Live camera detection
-- 🌍 Global observation visualization (eBird API)
-- 📊 Detection analytics dashboard
+---
 
-## 🧠 Technologies
+## 🚀 Key Features
+
+- 📷 **Image-Based Detection**
+  - Detect and classify bird species from images using YOLOv8
+
+- 🎵 **Audio-Based Recognition**
+  - Identify birds from their sounds using BirdNET
+
+- 📹 **Real-Time Detection**
+  - Live camera-based bird detection and classification
+
+- 🌍 **Global Bird Data Integration**
+  - Fetch and visualize bird observations using eBird API
+
+- 📊 **Analytics Dashboard**
+  - Display detection insights and statistics using Streamlit
+
+---
+
+## 🧠 Tech Stack
+
+### 👨‍💻 Programming & Frameworks
 - Python
 - Streamlit
-- YOLOv8
-- Transformers (HuggingFace)
-- BirdNET
+
+### 🤖 AI / ML
+- YOLOv8 (Object Detection)
+- Transformers (Hugging Face)
+- BirdNET (Audio Classification)
+
+### 👁️ Computer Vision
 - OpenCV
+
+### 🌐 APIs
 - eBird API
 
-## ⚙️ Run Locally
+---
 
-```bash
-pip install -r requirements.txt
-streamlit run app.py
+## 🏗️ System Architecture
